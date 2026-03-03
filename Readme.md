@@ -2,8 +2,6 @@
 
 LogIntel is a three-level log analytics pipeline built in Python. It starts with robust log ingestion/parsing (Level 1), then adds unsupervised ML to group similar log events (Level 2), and finally flags rare/unusual messages via anomaly detection (Level 3).
 
-This project is designed as a resume-ready MS CS–level system: modular architecture, CLI-driven workflows, and automated tests.
-
 ---
 
 ## Key Features
@@ -33,3 +31,4 @@ This project is designed as a resume-ready MS CS–level system: modular archite
 ---
 
 ## Project Structure
+
