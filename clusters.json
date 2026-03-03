@@ -1,0 +1,80 @@
+[
+  {
+    "cluster_id": 3,
+    "size": 836,
+    "top_terms": [
+      "slot",
+      "found",
+      "scoreboard",
+      "jk2_init",
+      "in",
+      "child",
+      "10"
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "size": 569,
+    "top_terms": [
+      "etc",
+      "properties",
+      "ok",
+      "httpd",
+      "workers2",
+      "conf",
+      "init"
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "size": 539,
+    "top_terms": [
+      "error",
+      "state",
+      "mod_jk",
+      "workerenv",
+      "in",
+      "child",
+      "10"
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "size": 32,
+    "top_terms": [
+      "client",
+      "by",
+      "forbidden",
+      "directory",
+      "var",
+      "rule",
+      "html"
+    ]
+  },
+  {
+    "cluster_id": 0,
+    "size": 12,
+    "top_terms": [
+      "can",
+      "find",
+      "jk2_init",
+      "scoreboard",
+      "in",
+      "child",
+      "5053"
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "size": 12,
+    "top_terms": [
+      "mod_jk",
+      "init",
+      "child",
+      "1275",
+      "1276",
+      "properties",
+      "10"
+    ]
+  }
+]
